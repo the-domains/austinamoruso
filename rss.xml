@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Austin Amoruso]]></title>
+        <description><![CDATA[Austin Amoruso]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 18:45:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Austin Amoruso]]></title>
+            <description><![CDATA[<article><h1>Austin Amoruso</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/958a38879d72e31d79e7cec397aa509ab307bb44.jpg"></article>]]></description>
+            <link>undefinedaustin-amoruso/index.html</link>
+            <guid isPermaLink="false">869c8e51-0c70-4755-b2fa-05e81c6bbc84</guid>
+            <pubDate>Mon, 21 Dec 2015 18:44:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
