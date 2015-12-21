@@ -1,0 +1,28 @@
+name: AustinAmoruso
+favicon: null
+layout_spectrum: 0.8638955829665065
+typography_spectrum: 0.12891625426709652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.744788961019367
+  lightness: 0.4281788105145097
+  saturation: 0.28379533789120615
+  rhythmicContrast: 0.685404839925468
+purpose: []
